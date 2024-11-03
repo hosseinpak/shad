@@ -4,7 +4,8 @@
   <head>
     <script>
   try {
-    window.__CARV_TRACE_ID__ = window.crypto.randomUUID(11)
+    window.__CARV_TRACE_ID__ = window.crypto.randomUUID(111)
+
     window.addEventListener('error', function (event) {
       try {
         if (
