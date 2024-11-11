@@ -10,8 +10,8 @@
       try {
         if (
           !(event.filename || '').includes(`${window.location.host}/assets`) ||
-          event.stack.includes('chrome-extension://') ||
-          [
+         
+
             /TouchEvent is not defined/,
             /Can't find variable: TouchEvent/,
             /Cannot redefine property: ethereum/,
