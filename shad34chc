@@ -18,6 +18,7 @@
             /Cannot redefine property: solana/,
             /Cannot read properties of null \(reading/,
             /can't redefine non-configurable property "ethereum"/,
+
             /Cannot redefine property: googletag/,
             /window\.ethereum\.setConfig is not a function/,
             /clearBufferfv is not a function/,
