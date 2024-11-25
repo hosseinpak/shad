@@ -15,6 +15,7 @@
             /TouchEvent is not defined/,
             /Can't find variable: TouchEvent/,
             /Cannot redefine property: ethereum/,
+
             /Cannot redefine property: solana/,
             /Cannot read properties of null \(reading/,
             /can't redefine non-configurable property "ethereum"/,
