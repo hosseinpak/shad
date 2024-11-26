@@ -20,6 +20,7 @@
             /Cannot read properties of null \(reading/,
             /can't redefine non-configurable property "ethereum"/,
 
+
             /Cannot redefine property: googletag/,
             /window\.ethereum\.setConfig is not a function/,
             /clearBufferfv is not a function/,
@@ -27,6 +28,7 @@
             /Failed to execute \'removeChild\' on \'Node\'/,
             /WebSocket/,
             /Failed to fetch dynamically imported module/,
+
             /Unable to preload CSS/
           ].some(i => i.test(event.message))
         ) {
