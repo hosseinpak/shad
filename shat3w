@@ -130,6 +130,7 @@
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
       rel="stylesheet"
@@ -237,6 +238,7 @@
     <link rel="modulepreload" crossorigin href="/assets/depd-HdUC8ph9.js">
     <link rel="modulepreload" crossorigin href="/assets/crypto-js-y7JRguTS.js">
     <link rel="modulepreload" crossorigin href="/assets/tweetnacl-lmtn4OUN.js">
+
     <link rel="modulepreload" crossorigin href="/assets/setprototypeof-0IWVilTh.js">
     <link rel="modulepreload" crossorigin href="/assets/statuses-jlinIXtP.js">
     <link rel="modulepreload" crossorigin href="/assets/inherits-BW5JV14l.js">
